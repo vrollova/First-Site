@@ -1,0 +1,43 @@
+html {
+	font-family: Helvetica;
+	text-align: center-left;
+	width: 800px;
+
+}
+
+#prvni {
+	color: red;
+	text-align:center;
+}
+h1 {
+	color: darkgray;
+	font-size: 35px;
+	font-style: italic;
+	text-align: center-left;
+
+}
+
+ul li {
+	font-family: Avenir;
+}
+
+
+.prvni-trida{
+	font-style: italic;
+	border: dotted;
+	border-color: red;
+}
+
+.tucna-trida{
+	color: darkgreen;
+}
+
+th.tucna-trida{
+	font-size:25px;
+}
+
+.hilight{
+	color: red;
+	font-weight: bold;
+	font-style: italic;
+}
